@@ -1,8 +1,8 @@
-### File
+# File
 
 * _None_
 
-### Instructions
+## Instructions
 
 * Starting from scratch, write code that loops through the following array and logs the name of each animal on the farm to the console:
 
